@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://luizfelipeoliver.github.io/my_blog/'
 languageCode = 'pt-br' 
 title = 'Luiz Dev'
 theme = 're-terminal'

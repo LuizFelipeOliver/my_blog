@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luiz Dev</title>
-    <link>https://luizfelipeoliver.github.io/my_blog/</link>
-    <description>Recent content on Luiz Dev</description>
+    <title>Desenvolvedor on Luiz Dev</title>
+    <link>https://luizfelipeoliver.github.io/my_blog/tags/desenvolvedor/</link>
+    <description>Recent content in Desenvolvedor on Luiz Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://luizfelipeoliver.github.io/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://luizfelipeoliver.github.io/my_blog/tags/desenvolvedor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O meu caminho de estudo para ser um Dev</title>
       <link>https://luizfelipeoliver.github.io/my_blog/posts/roadmap/</link>

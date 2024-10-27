@@ -6,15 +6,36 @@
     <description>Recent content in Posts on Luiz Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Oct 2024 21:51:31 -0300</lastBuildDate><atom:link href="https://luizfelipeoliver.github.io/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://luizfelipeoliver.github.io/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://luizfelipeoliver.github.io/my_blog/posts/my-first-post/</link>
-      <pubDate>Sat, 26 Oct 2024 21:51:31 -0300</pubDate>
+      <title>O meu caminho de estudo para ser um Dev</title>
+      <link>https://luizfelipeoliver.github.io/my_blog/posts/roadmap/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://luizfelipeoliver.github.io/my_blog/posts/my-first-post/</guid>
-      <description></description>
-      <content></content>
+      <guid>https://luizfelipeoliver.github.io/my_blog/posts/roadmap/</guid>
+      <description>&lt;p&gt;Bem se você esta lendo isso(não sei como você chegou até este lugar), fique registrado que este post é nada mais nada menos que uma lista de coisas que irei estudar para a minha trailha de desenvolvedor de sistemas embarcados até chegar a ser o meu maior objetivo ser um dev de robótica 🤖(sim ,isso existe e fiquei tão surpreso quanto você ao descrobrir isso).&lt;/p&gt;
+&lt;p&gt;Isto não é uma recomendação do que estudar é um simples bloco de notas 📝 para deixar claro o caminho que estou percorrendo, irei atualizar isso a medida que concluir(bem tentarei) também adicionarei mais items a medida que progrido em meus estudos, afinal escolhi esta área e existe muita coisa por baixo dos panos até chegar nesta tela 💻.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Bem se você esta lendo isso(não sei como você chegou até este lugar), fique registrado que este post é nada mais nada menos que uma lista de coisas que irei estudar para a minha trailha de desenvolvedor de sistemas embarcados até chegar a ser o meu maior objetivo ser um dev de robótica 🤖(sim ,isso existe e fiquei tão surpreso quanto você ao descrobrir isso).&lt;/p&gt;
+&lt;p&gt;Isto não é uma recomendação do que estudar é um simples bloco de notas 📝 para deixar claro o caminho que estou percorrendo, irei atualizar isso a medida que concluir(bem tentarei) também adicionarei mais items a medida que progrido em meus estudos, afinal escolhi esta área e existe muita coisa por baixo dos panos até chegar nesta tela 💻.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linguagem de programação: C/C++ (Não tem como fuzir)&lt;/li&gt;
+&lt;li&gt;Estrutura de dados e Algoritimos 📊&lt;/li&gt;
+&lt;li&gt;Arquitetura de computadores 🏗️&lt;/li&gt;
+&lt;li&gt;Sistema Operacionais 🖥️&lt;/li&gt;
+&lt;li&gt;Física ⚛️&lt;/li&gt;
+&lt;li&gt;Embarcados 🔌&lt;/li&gt;
+&lt;li&gt;Ros2 🚀&lt;/li&gt;
+&lt;li&gt;Gazebo 🏞️&lt;/li&gt;
+&lt;li&gt;Meta-programação 🧩&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Coisas para fazer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ler livro: Algoritmos - Teoria e Prática(Thomas H. Cormen,  Charles E. Leiserson etc.) 📚&lt;/li&gt;
+&lt;li&gt;Ler livro: Arquitetura de Computadores - Uma Abordagem Quantitativa 📖&lt;/li&gt;
+&lt;li&gt;Fazer o projeto pingpongOs 🛠️&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Espero que até o fim disto eu não enlouqueça. 😵&lt;/p&gt;
+</content>
     </item>
     
   </channel>

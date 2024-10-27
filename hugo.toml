@@ -1,0 +1,12 @@
+baseURL = ''
+languageCode = 'pt-br' 
+title = 'Luiz Dev'
+theme = 're-terminal'
+paginate = 5
+
+[params]
+  
+  themeColor = "blue"
+
+  [languages.en.params.logo]
+      logoText = "luiz dev"

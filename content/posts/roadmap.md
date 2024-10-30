@@ -18,7 +18,7 @@ Bem se você esta lendo isso(não sei como você chegou até este lugar), fique 
 
 Isto não é uma recomendação do que estudar é um simples bloco de notas 📝 para deixar claro o caminho que estou percorrendo, irei atualizar isso a medida que concluir(bem tentarei) também adicionarei mais items a medida que progrido em meus estudos, afinal escolhi esta área e existe muita coisa por baixo dos panos até chegar nesta tela 💻.
 
-- Linguagem de programação: C/C++ (Não tem como fuzir)
+- Linguagem de programação: C/C++ (Não tem como fugir)
 - Estrutura de dados e Algoritimos 📊
 - Arquitetura de computadores 🏗️
 - Sistema Operacionais 🖥️

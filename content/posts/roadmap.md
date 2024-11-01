@@ -9,7 +9,7 @@ tags = ["Desenvolvedor", "Começao da trilha"]
 keywords = ["estudo", "C/C++" ]
 description = "minhas listas trilha de conhecimento(Não me falaram que computadores eram tão complicados \U0001F628)"
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
@@ -21,6 +21,9 @@ Isto não é uma recomendação do que estudar é um simples bloco de notas 📝
 - Linguagem de programação: C/C++ (Não tem como fugir)
 - Estrutura de dados e Algoritimos 📊
 - Arquitetura de computadores 🏗️
+- CAN BUS e UN
+- RTOS embarcado
+- Padrões automotivos (AutoSAR, UDS, MISRA, ASPICE)
 - Sistema Operacionais 🖥️
 - Física ⚛️
 - Embarcados 🔌

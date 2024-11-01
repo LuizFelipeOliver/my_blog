@@ -8,18 +8,6 @@
     <language>en</language>
     <lastBuildDate>Tue, 29 Oct 2024 22:47:19 -0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cmaismais_ou_menos</title>
-      <link>//localhost:1313/posts/cmaismais_ou_menos/</link>
-      <pubDate>Tue, 29 Oct 2024 22:47:19 -0300</pubDate>
-      
-      <guid>//localhost:1313/posts/cmaismais_ou_menos/</guid>
-      <description>&lt;p&gt;Todo mundo começa por algum lugar, é para mim só tem um lugar para começar e é com C++, está não é a minha primeira lingua tão quanto foi esta que aprendi a programar minha primeira se deve unicamente ao Java uma linguagem que gosto muito embora não utilizar ela tanto quanto queria(talvez seja por isso que eu goste dela), antes que eu já perca o foco vamos voltar para C++. Sê você quer velocidade é com ela(bem é o que dizem irei descobrir isso no caminho), mas para mim é sobre ter controle conseguir ter um controle maior que a maioria das linguages(eu sei que tem Assembly) poder trabalhar diretamente com a memoria, o que é um grande perigo mas ainda não cheguei lá ainda&lt;/p&gt;</description>
-      <content>&lt;p&gt;Todo mundo começa por algum lugar, é para mim só tem um lugar para começar e é com C++, está não é a minha primeira lingua tão quanto foi esta que aprendi a programar minha primeira se deve unicamente ao Java uma linguagem que gosto muito embora não utilizar ela tanto quanto queria(talvez seja por isso que eu goste dela), antes que eu já perca o foco vamos voltar para C++. Sê você quer velocidade é com ela(bem é o que dizem irei descobrir isso no caminho), mas para mim é sobre ter controle conseguir ter um controle maior que a maioria das linguages(eu sei que tem Assembly) poder trabalhar diretamente com a memoria, o que é um grande perigo mas ainda não cheguei lá ainda&lt;/p&gt;
-&lt;p&gt;A primeira coisa que devemo saber é que C++ é uma linguagem de programação fortemente tipada, sendo de multiparadigma, mas o que isso significa&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>O nosso maior medo 🧑‍💻 🐛</title>
       <link>//localhost:1313/posts/o_pesadelo_do_desenvoldedor/</link>
       <pubDate>Tue, 29 Oct 2024 22:47:19 -0300</pubDate>

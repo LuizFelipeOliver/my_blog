@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Especials on Luiz Dev</title>
+    <link>//localhost:1313/especial/</link>
+    <description>Recent content in Especials on Luiz Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Oct 2024 22:47:19 -0300</lastBuildDate><atom:link href="//localhost:1313/especial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O_pesadelo_do_desenvoldedor</title>
+      <link>//localhost:1313/especial/o_pesadelo_do_desenvoldedor/</link>
+      <pubDate>Tue, 29 Oct 2024 22:47:19 -0300</pubDate>
+      
+      <guid>//localhost:1313/especial/o_pesadelo_do_desenvoldedor/</guid>
+      <description>&lt;p&gt;Sim todos nós temos medo disso, fazer um deploy e quebrar um site é uma emoção para quem trabalha na web vai sentir ou já sentiu(já senti isso), ter que ver o time preocupado, clientes ligando para saber o que aconteceu e você correndo o maximo possivel para saber o que fez de errado, sempre é aquele pequeno detalhe que você esqueceu (já olhou na linha 32 ?).&lt;/p&gt;
+&lt;p&gt;Certemente existem formas de prefinir que sempre será o nosso querido teste, existem varias formas de fazer isso, mas não é disso que eu estou falando hoje estou falando sobre algo muito pior, mais prerigoso algo que pode custar seu emprego ou até coisas pior estou falando de: Software de Sistemas Críticos.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Sim todos nós temos medo disso, fazer um deploy e quebrar um site é uma emoção para quem trabalha na web vai sentir ou já sentiu(já senti isso), ter que ver o time preocupado, clientes ligando para saber o que aconteceu e você correndo o maximo possivel para saber o que fez de errado, sempre é aquele pequeno detalhe que você esqueceu (já olhou na linha 32 ?).&lt;/p&gt;
+&lt;p&gt;Certemente existem formas de prefinir que sempre será o nosso querido teste, existem varias formas de fazer isso, mas não é disso que eu estou falando hoje estou falando sobre algo muito pior, mais prerigoso algo que pode custar seu emprego ou até coisas pior estou falando de: Software de Sistemas Críticos.&lt;/p&gt;
+&lt;p&gt;Software de Sistemas Críticos, são sistemas que seu mal funcionamento podem causar consequências graves como danos monetários, à vida humana, danos a propriedades ou ao meio ambiente não preciso falar como isso eles são importantes como controle de usina nucleares, controle de aviões ou transferências bancárias(Já quis trabalhar em um banco ?) já se perguntou se o codigo que você escreve está pronto para isso ? Muita responsabilidade não é ? Já imaginou programar um marcapaço literalmente o codigo que você vai estar cuindando da vida de alguém ou pior descobrir que existe um bug neste codigo, sem atualização, sem hotfix aquele bug vai estar lá para sempre.&lt;/p&gt;
+&lt;p&gt;Isso me faz pensar como nossa profição tem seus deveres a segurança do codigo, não escrever somente para você mas para outras pessoas não é você que vai usar esse codigo, vai ser outra pessoa.&lt;/p&gt;
+&lt;p&gt;Bem saindo um pouco desta parte seria, você sabia que para este tipos de Software existem até mesmo normas ? Como por exemplo a DO-178C feita para software para sistemas aéreos ela define diretrizes que devem ser seguidas para atestar a segurança do software é dividido em quatro níveis A, B, C e D:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;** Nível A **: O nivel que representa o maior risco é considerado crítico para o voo e está associado a consequências catastróficas em caso de falha, como por exemplo: software de controle de voo, sistemas de piloto automático, software de controle de motor.&lt;/li&gt;
+&lt;li&gt;** Nível B **: também é considerado grave mas não tanto como o nível A pode levar a uma redução significativa nas margens de segurança ou na funcionalidade, como por exemplo: Sistemas de navegação e alguns subsistemas aviônicos&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
